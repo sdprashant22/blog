@@ -3,7 +3,6 @@ layout: post
 title: Observations around a functionality and its usage
 subtitle: A thought around contract testing and its relevance in Software Engineering
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Technology, Software Engineering, Contract Testing]
 ---
